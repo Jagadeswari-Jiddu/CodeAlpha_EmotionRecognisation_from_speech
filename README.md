@@ -1,4 +1,5 @@
-Emotion recognisation from speech using deeplearning
+Emotion recognisation from speech using deeplearning.
+
 Emotion recognition from speech, also known as speech emotion recognition (SER), is the process of automatically detecting and categorizing emotions expressed in human speech.
 The primary goal of emotion recognition from speech is to develop computational models and algorithms that can accurately identify various emotional states conveyed through speech. 
 These emotional states may include basic emotions such as happiness, sadness, anger, fear, disgust, surprise, neutral.
